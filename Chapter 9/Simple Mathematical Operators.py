@@ -1,7 +1,7 @@
 print(" Simple Mathematical Operators")
 print() 
  
-print("---------------Division-----------------") 
+print("----------------Division-----------------") 
 a, b, c, d, e = 3, 2, 2.0, -3, 10
 x=a / b  #1.5
 print("Division=",x)
