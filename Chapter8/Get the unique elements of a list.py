@@ -8,5 +8,5 @@ print()
 b=list(girls_name) #it will print all elements
 print(b)
 
-c=list(set(girls_name)) # #it will give only unic names
+c=list(set(girls_name)) # it will give only unic names
 print(c)

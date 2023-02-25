@@ -42,7 +42,7 @@ d={1, 2}.isdisjoint({1, 4}) # False
 print("The Disjoint check operation result:",c) 
 print("The Disjoint check operation result:",d) 
 print("\n")
-print("---------------------------\n")
+print("-----------------------------\n")
 
 print("with single elements\n")
 print()
