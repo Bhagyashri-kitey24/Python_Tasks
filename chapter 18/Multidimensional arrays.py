@@ -13,7 +13,7 @@ print(lst[1][0])#4
 print(lst[1][1])#5
 print(lst[1][2])#6
 
-print(list1[2]) #[7, 8, 9]
-print(list1[2][0])#7
-print(list1[2][1])#8
-print(list1[2][2])#9
+print(lst[2]) #[7, 8, 9]
+print(lst[2][0])#7
+print(lst[2][1])#8
+print(lst[2][2])#9
