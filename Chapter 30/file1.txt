@@ -1,0 +1,2 @@
+The contents of this file are written using File I/O functions in python
+hellowelcomtoshubhchintak TechnologyMumbai

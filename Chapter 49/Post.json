@@ -1,0 +1,40 @@
+[
+    {
+        "user_id":1,
+        "id":1,
+        "name":"Ram",
+        "Role": "Software Tester"
+    },
+    {
+        "user_id":2,
+        "id":2 ,
+        "name":"Ram",
+        "Role": "Developer"
+    },
+    {
+        "user_id":3,
+        "id":3 ,
+        "name":"Ram",
+        "Role": "Developer"
+    },
+    {
+        "user_id":4,
+        "id":4 ,
+        "name":"Ram",
+        "Role": "Software Tester"
+    },
+    
+    {
+        "user_id":5,
+        "id":5 ,
+        "name":"Ram",
+        "Role": "Developer"
+    },
+    {
+        "user_id":6,
+        "id":6 ,
+        "name":"Raya",
+        "Role": "Software Tester"
+    }
+    
+]
