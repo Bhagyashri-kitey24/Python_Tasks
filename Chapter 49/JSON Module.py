@@ -6,7 +6,7 @@ f=json.dumps(d) #It means that a script (executable) file which is made of text 
 print(type(f))
 print(f)
 
-print("---------------------------------------------")
+print("-------------------------------------------------------")
 import json
 a='{"course_name":"python","fees": "15000", "duration":"2month"}'
 b=json.loads(a)   # loads() method allows us to convert a JSON string into an equivalent python object (dictionary).
