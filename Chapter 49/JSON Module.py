@@ -9,7 +9,7 @@ print(f)
 print("-------------------------------------------------------")
 import json
 a='{"course_name":"python","fees": "15000", "duration":"2month"}'
-b=json.loads(a)   # loads() method allows us to convert a JSON string into an equivalent python object (dictionary).
+b=json.loads(a)# loads() method allows us to convert a JSON string into an equivalent python object (dictionary).
 print(type(b))
 print(b)
 
